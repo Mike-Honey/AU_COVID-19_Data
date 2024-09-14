@@ -28,6 +28,6 @@
 
 ## 🤝 Support
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, feature requests and sponsorship are all welcome!
 
 Give a ⭐️ if you like this project!
